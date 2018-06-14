@@ -3,13 +3,17 @@
   "manifest_version": 2,
   "description": "A browser extension that tells users where the images they’re seeing comes from.",
   "version": "1.0",
-  "default_locale": "en",
   "author": "Neville Lee, Jake Westerfield",
 
 
   "browser_action": {
-      "default_popup": "popup.html"
-   }
+      "default_popup": "newtab.html",
+      "default_icon": {
+       "16": "images/icon16.png",
+       "24": "images/icon24.png",
+       "32": "images/icon32.png"
+     },
+    }
 
 
 }
