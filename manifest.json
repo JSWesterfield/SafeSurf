@@ -9,10 +9,10 @@
   "browser_action": {
       "default_popup": "newtab.html",
       "default_icon": {
-       "16": "images/icon16.png",
-       "24": "images/icon24.png",
-       "32": "images/icon32.png"
-     },
+       "16": "images/check16x16.png",
+       "24": "images/check24x24.png",
+       "32": "images/check32x32.png"
+     }
     }
 
 
