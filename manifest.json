@@ -1,0 +1,15 @@
+{
+  "name": "SafeSearch",
+  "manifest_version": 2,
+  "description": "A browser extension that tells users where the images they’re seeing comes from.",
+  "version": "1.0",
+  "default_locale": "en",
+  "author": "Neville Lee, Jake Westerfield",
+
+
+  "browser_action": {
+      "default_popup": "popup.html"
+   }
+
+
+}
